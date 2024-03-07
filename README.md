@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=94D03A&height=215&section=header&text=SEN-A-CHIHIRO&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
 
-<br><br>
+<br>
 <h3>☘️GitHub☘️</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sena-Han&layout=compact)
