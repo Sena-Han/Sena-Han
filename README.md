@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=215&section=header&text=SEN-A-CHIHIRO&fontSize=60&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=94D03A&height=215&section=header&text=SEN-A-CHIHIRO&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
 
 <br><br>
 <h3>🍀GitHub🍀</h3>
