@@ -6,7 +6,7 @@
   <br>
   <h3>☘️GitHub☘️</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sena-Han&layout=compact)
+  
   
   <br>
   <h3>☘️Baekjoon☘️</h3>
